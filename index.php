@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
-<!-- Mirrored from themesflat.co/html/restaurant/basilicohtml/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Jan 2024 10:34:47 GMT -->
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basilico - Restaurant HTML Template</title>
+    <title>Home - Basilico Restaurant</title>
     <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css">
     <link rel="stylesheet" href="app/dist/app.css">
@@ -28,136 +26,9 @@
     </div>
     <!-- /preload -->
     <div id="wrapper">
-        <!-- Top bar -->
-        <div class="top-bar">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-8 col-md-12">
-                        <div class="list-info">
-                            <ul>
-                                <li><i class="fa fa-envelope-open"></i> <a href="https://themesflat.co/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8bc9eaf8e2e7e2e8e4ede4e4efbab9b8cbece6eae2e7a5e8e4e6">[email&#160;protected]</a></li>
-                                <li><i class="fa fa-map"></i> 4517 Washington Ave. Kentucky 39495, USA </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-md-12">
-                        <div class="language"><i class="fa fa-globe"></i> English <i
-                                class="fa-solid fa-chevron-down"></i></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- end Top bar -->
-        <!-- Header -->
-        <header id="header_main" class="header style-1">
-            <div class="container">
-                <div id="site-header-inner">
-                    <div class="header__logo">
-                        <a href="index.html"><img src="assets/images/logo/logo.png" alt=""></a>
-                    </div>
-                    <nav id="main-nav" class="main-nav">
-                        <ul id="menu-primary-menu" class="menu">
-                            <li class="menu-item menu-item-has-children  current-menu-item">
-                                <a href="#">Home</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item current-item"><a href="index.html">Home 01</a></li>
-                                    <li class="menu-item"><a href="home_02.html">Home 02</a></li>
-                                    <li class="menu-item"><a href="home_03.html">Home 03</a></li>
-                                    <li class="menu-item"><a href="home_04.html">Home 04</a></li>
+        <?php include('include/header.php'); ?>
 
-                                </ul>
-                            </li>
 
-                            <li class="menu-item menu-item-has-children">
-                                <a href="#">Pages</a>
-
-                                <ul class="sub-menu">
-                                    <li class="menu-item"><a href="404.html">Page 404</a></li>
-                                    <li class="menu-item"><a href="about.html">About</a></li>
-                                    <li class="menu-item"><a href="careers.html">Careers</a></li>
-                                    <li class="menu-item"><a href="coming_soon.html">Coming Soon</a></li>
-                                    <li class="menu-item"><a href="faq.html">Faqs</a></li>
-                                    <li class="menu-item"><a href="gallery.html">Gallery</a></li>
-                                    <li class="menu-item"><a href="history.html">History</a></li>
-                                    <li class="menu-item"><a href="location.html">Location</a></li>
-                                    <li class="menu-item"><a href="gift_vouchers.html">Gift Vouchers</a></li>
-                                    <li class="menu-item"><a href="gift_vouchers_detail.html">Gift Detail</a></li>
-
-                                </ul>
-
-                            </li>
-                            <li class="menu-item menu-item-has-children">
-                                <a href="#">Menu</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item"><a href="menu_list.html">Menu List</a></li>
-                                    <li class="menu-item"><a href="menu_zigzag.html">Menu Zingzag</a></li>
-
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-has-children">
-                                <a href="#">Portfolio</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item"><a href="colums_full_width.html">Portfolio Full Width</a></li>
-                                    <li class="menu-item"><a href="portfolio_carousel.html">Portfolio Carousel</a></li>
-                                    <li class="menu-item"><a href="portfolio_mansonry.html">Portfolio Mansonry</a></li>
-                                    <li class="menu-item"><a href="portfolio_three_colum.html">Portfolio Three Colum</a>
-                                    </li>
-                                    <li class="menu-item"><a href="portfolio_detail.html">Portfolio Details</a></li>
-
-                                </ul>
-                            </li>
-
-                            <li class="menu-item menu-item-has-children">
-                                <a href="#">Blog</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item"><a href="blog_creative.html">Blog Creative</a></li>
-                                    <li class="menu-item"><a href="blog_full_width.html">Blog Full Width</a></li>
-                                    <li class="menu-item"><a href="blog_list.html">Blog List</a></li>
-                                    <li class="menu-item"><a href="blog_right_sidebar.html">Blog Right Sidebar</a></li>
-                                    <li class="menu-item"><a href="blog_single.html">Blog Detail</a></li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-has-children">
-                                <a href="#">Contact</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item"><a href="contact_01.html">Contact 01</a></li>
-                                    <li class="menu-item"><a href="contact_02.html">Contact 02</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </nav><!-- /#main-nav -->
-
-                    <a href="#" class="tf-button style1 ">BOOK A TABLE</a>
-                    <div class="sidebar-btn">
-                        <a class="btn-side">
-                            <span></span>
-                        </a>
-                        <div class="sidebar-content">
-                            <img src="assets/images/logo/logo.png" alt="">
-                            <p>
-                                Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
-                                dis parturient montes, nascetur ridiculus mus.
-                            </p>
-                            <h4>+(406) 555-0120</h4>
-                            <p>Andé Restaurant 767 5th Avenue, Paris 10021, France</p>
-                            <p><a href="https://themesflat.co/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ce8cbca1ada6abbabaabbcabbdbaafbbbcafa0ba8ea9a3afa7a2e0ada1a3">[email&#160;protected]</a></p>
-                            <div class="line"></div>
-                            <p>Opening Hour: <br />
-                                Mon - Fri : 9.00am - 22.00pm, Holidays : Close</p>
-                            <div class="line"></div>
-                            <ul class="list-social">
-                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa-solid fa-envelope"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="mobile-button"><span></span></div><!-- /.mobile-button -->
-                </div>
-            </div>
-        </header>
-        <!-- end Header -->
         <div class="swiper mySwiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
@@ -173,7 +44,7 @@
                                         <p class="sub-title">Craving some delicious Paris food? Maybe you’re in the mood
                                             for a juicy steak? No matter what kind of meal you have in mind.</p>
                                         <div class="wrap-btn">
-                                            <a href="menu_list.html" class="tf-button style2">
+                                            <a href="menu.php" class="tf-button style2">
                                                 discovery menu
                                             </a>
                                         </div>
@@ -205,7 +76,7 @@
                                         <p class="sub-title">Craving some delicious Paris food? Maybe you’re in the mood
                                             for a juicy steak? No matter what kind of meal you have in mind.</p>
                                         <div class="wrap-btn">
-                                            <a href="menu_list.html" class="tf-button style2">
+                                            <a href="menu.php" class="tf-button style2">
                                                 discovery menu
                                             </a>
                                         </div>
@@ -251,7 +122,7 @@
                                     flourishing range of cocktails, spirits, beers and wines are all made with integrity
                                     and offer something for every guest.</p>
 
-                                <a href="about.html" class="tf-button style3">read more about us</a>
+                                <a href="about.php" class="tf-button style3">read more about us</a>
                             </div>
                         </div>
                     </div>
@@ -377,7 +248,7 @@
                                                 <p>Citrus, wild rocket condiment.</p>
                                             </li>
 
-                                            <a href="menu_list.html" class="tf-button style1 mt-39">view all menu</a>
+                                            <a href="menu.php" class="tf-button style1 mt-39">view all menu</a>
                                         </ul>
 
                                     </div>
@@ -422,7 +293,7 @@
                                                 <p>Citrus, wild rocket condiment.</p>
                                             </li>
 
-                                            <a href="menu_list.html" class="tf-button style1 mt-39">view all menu</a>
+                                            <a href="menu.php" class="tf-button style1 mt-39">view all menu</a>
                                         </ul>
 
                                     </div>
@@ -467,7 +338,7 @@
                                                 <p>Citrus, wild rocket condiment.</p>
                                             </li>
 
-                                            <a href="menu_list.html" class="tf-button style1 mt-39">view all menu</a>
+                                            <a href="menu.php" class="tf-button style1 mt-39">view all menu</a>
                                         </ul>
 
                                     </div>
@@ -512,7 +383,7 @@
                                                 <p>Citrus, wild rocket condiment.</p>
                                             </li>
 
-                                            <a href="menu_list.html" class="tf-button style1 mt-39">view all menu</a>
+                                            <a href="menu.php" class="tf-button style1 mt-39">view all menu</a>
                                         </ul>
 
                                     </div>
@@ -1129,95 +1000,7 @@
             </div>
         </section>
 
-        <footer class="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-md-6">
-                        <div class="widget logo">
-                            <img src="assets/images/logo/logofooter.png" alt="">
-                            <p>Our buzzy food-hall style concept is inspired by international dining styles, especially
-                                in Asia. Explore the following fast-action food
-                            </p>
-                            <ul class="list-social">
-                                <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa-solid fa-envelope"></i></a></li>
-                                <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="widget time">
-                            <h5>opening time</h5>
-                            <ul>
-                                <li>Mon - Fri : 9:00am - 22:00pm</li>
-                                <li>Sat: 10:00am - 23:00pm</li>
-                                <li>Sun: 5:00pm - 23:00pm</li>
-                                <li>Holidays: Closed</li>
-                                <li>Happy Hours: 18:00pm - 20:00pm</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="widget locations">
-                            <h5>location</h5>
-                            <ul>
-                                <li>
-                                    <span>Address:
-                                    </span>
-                                    <p>4517 Washington Ave.
-                                        Manchester, Kentucky 39495, USA
-                                    </p>
-                                </li>
-                                <li>
-                                    <span>Booking & Contact:
-                                    </span>
-                                    <p><a href="https://themesflat.co/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="195b786a7075707a767f76767d282b2a597e74787075377a7674">[email&#160;protected]</a>
-                                    </p>
-                                    <p>978-212-8600</p>
-                                </li>
-
-
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="widget latestnew">
-                            <h5>latest new</h5>
-                            <p class="mb-28">Register your email to not miss any news and offers from us! </p>
-                            <form>
-                                <div class="form-group">
-
-                                    <input type="email" class="form-control" id="exampleInputEmail1"
-                                        aria-describedby="emailHelp" placeholder="Email *">
-
-                                </div>
-
-                                <div class="form-check">
-                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                    <label class="form-check-label" for="exampleCheck1">I agree to the Privacy
-                                        Policy</label>
-                                </div>
-                                <button type="submit" class="btn btn-primary"><i class="fa fa-paper-plane"></i></button>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row bottom-footer">
-                    <div class="bottom-main">
-                        <p>Copyright © 2023 Themesflat. All Rights Reserved.</p>
-
-                        <ul>
-                            <li><a href="#">PRIVACY</a></li>
-                            <li><a href="#">TERM OF USE</a></li>
-                            <li><a href="#">POLICY</a></li>
-                        </ul>
-                    </div>
-
-                </div>
-            </div>
-        </footer>
+        <?php include('include/footer.php'); ?>
 
 
 
