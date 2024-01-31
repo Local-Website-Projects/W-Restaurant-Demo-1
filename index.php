@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home - Basilico Restaurant</title>
+    <title>Home - DEE LINCOLN PRIME</title>
     <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css">
     <link rel="stylesheet" href="app/dist/app.css">
@@ -55,7 +55,7 @@
                                         </div>
                                         <div class="left">
                                             <h6>call us book a table & delivery</h6>
-                                            <h4>978-212-8600</h4>
+                                            <h4>(214) 387 - 3333</h4>
                                         </div>
                                     </div>
                                 </div>
@@ -87,7 +87,7 @@
                                         </div>
                                         <div class="left">
                                             <h6>call us book a table & delivery</h6>
-                                            <h4>978-212-8600</h4>
+                                            <h4>(214) 387 - 3333</h4>
                                         </div>
                                     </div>
                                 </div>
@@ -976,14 +976,15 @@
                                 <p class="subtitle" data-aos-duration="1000" data-aos="fade-up">location</p>
                                 <h3 class="title" data-aos-duration="1000" data-aos="fade-up">how to find us? </h3>
                                 <p class="text" data-aos-duration="1000" data-aos="fade-up">It is inconvenient to not know the address, below is the address and
-                                    <br /> contact of the Basilico restaurant
+                                    <br /> contact of the DEE LINCOLN PRIME
                                 </p>
                                 <h6 data-aos-duration="1000" data-aos="fade-up">call us book a table & delivery:</h6>
-                                <h3 class="phone" data-aos-duration="1000" data-aos="fade-up">978-212-8600</h3>
+                                <h3 class="phone" data-aos-duration="1000" data-aos="fade-up">(214) 387 - 3333</h3>
                                 <h6 data-aos-duration="1000" data-aos="fade-up">information restaurant:</h6>
-                                <p class="mb-6" data-aos-duration="1000" data-aos="fade-up"><span>Address:</span> 4517 Washington Ave. Manchester, Kentucky 39495,
-                                    USA</p>
-                                <p class="mb-6" data-aos-duration="1000" data-aos="fade-up"><span>Mail:</span> <a href="https://themesflat.co/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="90d2f1e3f9fcf9f3fff6fffff4a1a2a3d0f7fdf1f9fcbef3fffd">[email&#160;protected]</a></p>
+                                <p class="mb-6" data-aos-duration="1000" data-aos="fade-up"><span>Address:</span> 6670 Winning Drive
+                                    Suite 400
+                                    Frisco, TX 75034</p>
+                                <p class="mb-6" data-aos-duration="1000" data-aos="fade-up"><span>Mail:</span> <a href="#">deelincolnprime@gmail.com</a></p>
                                 <p class="mb-6" data-aos-duration="1000" data-aos="fade-up"><span>Opening Hour:</span> Mon - Fri : 9.00am - 22.00pm, Holidays :
                                     Close</p>
                                 <a href="#" class="tf-button style3" >get directons</a>

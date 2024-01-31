@@ -4,36 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00e80732-d53c-4e51-987e-680d40057440" name="Changes" comment="">
+    <list default="true" id="00e80732-d53c-4e51-987e-680d40057440" name="Changes" comment="25/01/24">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_creative.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_creative.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_full_width.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_full_width.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_right_sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_right_sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_single.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/careers.html" beforeDir="false" afterPath="$PROJECT_DIR$/careers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/colums_full_width.html" beforeDir="false" afterPath="$PROJECT_DIR$/colums_full_width.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coming_soon.html" beforeDir="false" afterPath="$PROJECT_DIR$/coming_soon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_01.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact_02.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact_02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gift_vouchers.html" beforeDir="false" afterPath="$PROJECT_DIR$/gift_vouchers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gift_vouchers_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/gift_vouchers_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/history.html" beforeDir="false" afterPath="$PROJECT_DIR$/history.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_02.html" beforeDir="false" afterPath="$PROJECT_DIR$/home_02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_03.html" beforeDir="false" afterPath="$PROJECT_DIR$/home_03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo/logofooter.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo/logofooter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog_creative.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog_creative.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home_04.html" beforeDir="false" afterPath="$PROJECT_DIR$/home_04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location.html" beforeDir="false" afterPath="$PROJECT_DIR$/location.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/menu_zigzag.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu_zigzag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_carousel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_mansonry.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_mansonry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_three_colum.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_three_colum.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,11 +72,25 @@
       <option name="presentableId" value="Default" />
       <updated>1705999267363</updated>
       <workItem from="1705999270882" duration="1337000" />
-      <workItem from="1706159558774" duration="2732000" />
+      <workItem from="1706159558774" duration="2797000" />
+      <workItem from="1706683876517" duration="2371000" />
     </task>
+    <task id="LOCAL-00001" summary="25/01/24">
+      <option name="closed" value="true" />
+      <created>1706163882490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706163882490</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="25/01/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="25/01/24" />
   </component>
 </project>

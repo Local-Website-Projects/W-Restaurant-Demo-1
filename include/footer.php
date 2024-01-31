@@ -7,17 +7,19 @@
                     <ul>
                         <li>
                             <p>
-                                <span>Location:</span> 4517 Washington Ave. Manchester, Kentucky 39495, USA
+                                <span>Location:</span> 6670 Winning Drive
+                                Suite 400
+                                Frisco, TX 75034
                             </p>
                         </li>
                         <li>
                             <p>
                                         <span>book a table:
                                         </span>
-                                <a href="https://themesflat.co/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8dcfecfee4e1e4eee2ebe2e2e9bcbfbecdeae0ece4e1a3eee2e0">[email&#160;protected]</a>
+                                <a href="#">deelincolnprime@gmail.com</a>
                             </p>
 
-                            <p class="cl">978-212-8600</p>
+                            <p class="cl">(214) 387 - 3333</p>
                         </li>
 
 
@@ -56,12 +58,12 @@
 
         <div class="row bottom-footer">
             <div class="bottom-main">
-                <p>© Copyright Themesflat for Restaurant & Bistro</p>
+                <p>© Copyright DEE LINCOLN PRIME</p>
                 <ul>
-                    <li><a href="about.html">ABOUT US</a></li>
-                    <li><a href="menu_list.html">MENU</a></li>
-                    <li><a href="blog_right_sidebar.html">Blog</a></li>
-                    <li><a href="contact_01.html">CONTACT US</a></li>
+                    <li><a href="about.php">ABOUT US</a></li>
+                    <li><a href="menu.php">MENU</a></li>
+                    <li><a href="blog_creative.php">Blog</a></li>
+                    <li><a href="contact.php">CONTACT US</a></li>
                 </ul>
             </div>
 

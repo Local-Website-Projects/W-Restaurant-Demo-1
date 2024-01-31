@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact - Basilico Restaurant</title>
+    <title>Contact - DEE LINCOLN PRIME</title>
     <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css">
     <link rel="stylesheet" href="app/dist/app.css">
@@ -56,7 +56,7 @@
                         <div class="contact-main">
                             <div class="top-map">
                                 <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2990.274257380938!2d-70.56068388481569!3d41.45496659976631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e52963ac45bbcb%3A0xf05e8d125e82af10!2sDos%20Mas!5e0!3m2!1sen!2sus!4v1671220374408!5m2!1sen!2sus"
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3342.0497509136294!2d-96.83112372382493!3d33.107775867008584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c3c848da048d5%3A0x574206cd629fe1ee!2s6670%20Winning%20Dr%20%23400%2C%20Frisco%2C%20TX%2075034%2C%20USA!5e0!3m2!1sen!2sbd!4v1706684712890!5m2!1sen!2sbd"
                                     width="100%" height="533px" style="border:0;" allowfullscreen="" loading="lazy"
                                     referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
@@ -65,16 +65,16 @@
                                 <div class="item" data-aos-duration="1000" data-aos="fade-up">
                                     <div class="icon"><i class="fa fa-phone-volume"></i></div>
                                     <h5>Contact Us</h5>
-                                    <p>+(406) 555-0120</p>
-                                    <p><a href="https://themesflat.co/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b4f6d5c7ddd8ddd7dbd2dbdbd0858687f4d3d9d5ddd89ad7dbd9">[email&#160;protected]</a></p>
+                                    <p>+(214) 387 - 3333</p>
+                                    <p><a href="#">deelincolnprime@gmail.com</a></p>
 
                                 </div>
 
                                 <div class="item" data-aos-duration="1000" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
                                     <div class="icon"><i class="fa fa-map"></i></div>
                                     <h5>Address here</h5>
-                                    <p>4517 Washington Ave. Manchester, </p>
-                                    <p>Kentucky 39495, USA</p>
+                                    <p>6670 Winning Drive Suite 400</p>
+                                    <p>Frisco, TX 75034</p>
 
                                 </div>
 

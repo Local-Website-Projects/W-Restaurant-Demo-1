@@ -5,8 +5,10 @@
             <div class="col-xl-8 col-md-12">
                 <div class="list-info">
                     <ul>
-                        <li><i class="fa fa-envelope-open"></i> <a href="https://themesflat.co/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8bc9eaf8e2e7e2e8e4ede4e4efbab9b8cbece6eae2e7a5e8e4e6">[email&#160;protected]</a></li>
-                        <li><i class="fa fa-map"></i> 4517 Washington Ave. Kentucky 39495, USA </li>
+                        <li><i class="fa fa-envelope-open"></i> <a href="#"></a>deelincolnprime@gmail.com</li>
+                        <li><i class="fa fa-map"></i> 6670 Winning Drive
+                            Suite 400
+                            Frisco, TX 75034 </li>
                     </ul>
                 </div>
             </div>
@@ -23,7 +25,7 @@
     <div class="container">
         <div id="site-header-inner">
             <div class="header__logo">
-                <a href="index.html"><img src="assets/images/logo/logo.png" alt=""></a>
+                <a href="index.php"><img src="assets/images/logo/logo.png" alt=""></a>
             </div>
             <nav id="main-nav" class="main-nav">
                 <ul id="menu-primary-menu" class="menu">
@@ -58,9 +60,11 @@
                         Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
                         dis parturient montes, nascetur ridiculus mus.
                     </p>
-                    <h4>+(406) 555-0120</h4>
-                    <p>Andé Restaurant 767 5th Avenue, Paris 10021, France</p>
-                    <p><a href="https://themesflat.co/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ce8cbca1ada6abbabaabbcabbdbaafbbbcafa0ba8ea9a3afa7a2e0ada1a3">[email&#160;protected]</a></p>
+                    <h4>+(214) 387 - 3333</h4>
+                    <p>6670 Winning Drive
+                        Suite 400
+                        Frisco, TX 75034</p>
+                    <p><a href="#">deelincolnprime@gmail.com</a></p>
                     <div class="line"></div>
                     <p>Opening Hour: <br />
                         Mon - Fri : 9.00am - 22.00pm, Holidays : Close</p>

@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menu - Basilico Restaurant</title>
+    <title>Menu - DEE LINCOLN PRIME</title>
     <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css">
     <link rel="stylesheet" href="app/dist/app.css">
@@ -58,7 +58,7 @@
                         <div class="block-text center style-2">
                             <p class="subtitle" data-aos-duration="1000" data-aos="fade-up">Taste the Best that Surprise you</p>
                             <h3 class="title" data-aos-duration="1000" data-aos="fade-up">our special menu</h3>
-                            <p class="text" data-aos-duration="1000" data-aos="fade-up">Enjoy the unique dishes from the basilico restaurant that
+                            <p class="text" data-aos-duration="1000" data-aos="fade-up">Enjoy the unique dishes from the DEE LINCOLN PRIME that
                                 only our restaurant has, Fusce <br />
                                 malesuada, lorem vitae euismod lobortis, purus justo sollicitudin tellus.
                             </p>
@@ -328,7 +328,7 @@
                         <div class="block-text center">
                             <p class="subtitle" data-aos-duration="1000" data-aos="fade-up">your special moment</p>
                             <h3 class="title" data-aos-duration="1000" data-aos="fade-up">book a table</h3>
-                            <p class="text" data-aos-duration="1000" data-aos="fade-up">Book a table online and dine at basilico restaurant to enjoy the special
+                            <p class="text" data-aos-duration="1000" data-aos="fade-up">Book a table online and dine at DEE LINCOLN PRIME to enjoy the special
                                 flavors, <br /> cozy space with your family and loved ones!
                             </p>
 
